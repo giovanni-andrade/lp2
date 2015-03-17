@@ -1,0 +1,7 @@
+Varia'vel 3 = 7
+Varia'vel 4 = 10.5
+Varia'vel 5 = 10
+Varia'vel 4 e' maior que a 10.0
+Varia'vel 5 e' menor igual a 10.0
+
+Nas três primeiras linhas são apresentados os valores das variáveis 3, 4 e 5, conforme calculado na declaração das mesmas. Apesar de as operações para o calculo de 4 e 5 serem iguais, a inserção do float no cálculo de 5 altera o resultado, permitindo que ele seja decimal, ao co
