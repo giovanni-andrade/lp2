@@ -1,0 +1,1 @@
+A diferença de resultado nos exercícios 3, 4 e 5 se deu no valor da divisão, que no primeiro foi 0.0, e nos 2 últimos 0.75.
