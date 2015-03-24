@@ -1,0 +1,4 @@
+Tipo Abstrato de Dados é a abstração de informações do mundo real, onde essas se encontram encapsuladas e serão manipuladas por determinadas operações.
+Classe é um tipo de TAD.
+Objeto é a materialização dinâmica da classe.
+Mensagens são as informações trocadas entre objetos, ou seja, a invocação de outra classe.
