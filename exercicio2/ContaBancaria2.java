@@ -19,7 +19,7 @@ public class ContaBancaria2{
 		System.out.println("Saldo: " + this.saldo);
 	}
 
-	public void imprimirSaldo(){
+	public void imprimirSaldoTotal(){
 		double soma = this.saldo + this.limiteExtra;
 		System.out.println("Saldo com limite extra: " + soma);
 	}
@@ -38,7 +38,7 @@ public class ContaBancaria2{
 		cb1.imprimirSaldoTotal();
 		
 		ContaBancaria2 cb2 = new ContaBancaria2();
-		cb2.agencia=0810;
+		cb2.agencia=810;
 		cb2.contaCorrente=6132;
 		cb2.saldo=42.31;
 		cb2.limiteExtra=75.00;
